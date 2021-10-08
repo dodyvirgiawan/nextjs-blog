@@ -40,7 +40,7 @@ export default function Home({ allPostsData }) {
 
             <section className={utilStyles.headingMd}>
                 <p>
-                    Hello, I'm <b>Dody</b>. I'm a software engineer at TapHomes.
+                    Hello, I'm <b>Dody</b>. I'm a software engineer.
                 </p>
                 <p>
                     (This is a sample website - you’ll be building a site like this on{' '}
